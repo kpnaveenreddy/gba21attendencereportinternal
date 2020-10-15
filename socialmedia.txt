@@ -1,0 +1,29 @@
+// Whatsapp
+
+*GITAM Assisment results Internal 2017-2021 Batch*
+
+Enter Your Roll Number to Check your Internal Results
+
+http://gba21ari.rf.gd/index.php
+
+
+*Note:* All Data is taken from GBA21ARI Database Link of Placements Database.
+Any Mistakes Plese Check GBA21ARI link shared by Placement Department Previously.
+
+
+//Linkedin 
+
+
+GITAM Assisment results Internal 2017-2021 Batch Web Application to get Result Sheet.
+Just by Entering Roll Number of Student on below link it will fetch all data from databse and prints on Result Sheet
+
+http://gba21ari.rf.gd/index.php
+
+
+Front End : HTML,CSS 
+Back End : PHP
+Database : MySql
+
+Instially we used XAMPP to run  Application on localhost and PhpMyAdmin for MySql databse afterwards we deployed our Application Online using Infinity Host to make application live to access everone. 
+
+#gitam #gitamblrplacements #php #mysql #html #css
